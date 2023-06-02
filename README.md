@@ -1,4 +1,4 @@
-# Online-Voting-System
+# Online-Voting-System(PHP)
 * The word "vote" means to choose from a list, to elect or to determine. The main
 goal of voting (in a scenario involving the citizens of a given country) is to come
 up with leaders of the people's choice.
@@ -10,3 +10,4 @@ inexperienced personnel.
 should be noted that with this system in place, the users, citizens in this case shall
 be given ample time during the voting period. They shall also be trained on how
 to vote online before the election time.
+* It's important to note that building a secure and reliable online voting system requires careful consideration of various factors, including security, privacy, scalability, and legal requirements. This outline provides a basic starting point, but a complete implementation would involve additional steps and considerations.
